@@ -39,18 +39,21 @@ BENTISTUDYREPOSITORY
 │          DDL_CREATE_1答案.png
 │          DDL_CREATE_2答案.png
 │
-└─操作系统原理
-    │  操作系统概述.docx
-    │  操作系统概述.md
-    │
-    └─操作系统配图
-            中央处理器CPU.png
-            中断请求.png
-            存储器扩展.png
-            操作系统层次.png
-            操作系统核心.png
-            操作系统运行层次结构.png
-            进程状态转换.png
+├─操作系统原理
+│   │  操作系统概述.docx
+│   │  操作系统概述.md
+│   │
+│   └─操作系统配图
+│           中央处理器CPU.png
+│           中断请求.png
+│           存储器扩展.png
+│           操作系统层次.png
+│           操作系统核心.png
+│           操作系统运行层次结构.png
+│           进程状态转换.png
+│
+└─计算机网络技术及应用
+    └─ 计算机网络基础.md
 ```
 
 ---
@@ -76,7 +79,7 @@ git clone https://github.com/benti59/BentiStudyRepository.git
 ## 发展规划
 
 ### 短期计划（2026）
-- [ ] 完成计算机网络核心模块的整理
+- [-] 完成计算机网络核心模块的整理
 - [ ] 增加Python/C#编程实例库
 - [ ] 添加技能高考历年真题解析
 - [ ] 完善各章节的配套练习题
@@ -113,6 +116,10 @@ git clone https://github.com/benti59/BentiStudyRepository.git
 - 开源社区的先驱者们
 - 提交Issue和PR的贡献者们
 - 每一位使用本仓库的学习者
+
+## 日志
+
+Mysql数据库内容应该会大改，新增了计算机网络技术及应用章节。
 
 ---
 
